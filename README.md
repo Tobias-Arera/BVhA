@@ -1,3 +1,6 @@
+![](https://github.com/Tobias-Arera/BVhA/blob/main/bvha-banner.png)
+***
+
 ### Allgemeines
 Das Bamberger Vokabular für historische Architektur (BVhA) ist der einzige Normdatensatz für die historische Bauforschung, die Baugeschichte, den Bauerhalt und die Bauwerksrestaurierung, der im Unterschied zum etablierten [Getty Art & Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/) Fachtermini nun auch umfassend in deutscher Sprache abbildet und neben kunsthistorisch orientierten, formalen und typologischen Begriffen reichhaltiges Wissen bezüglich der Baukonstruktion, der Bautechnikgeschichte, der Gebäudeausstattung, der Zustandserfassung und Instandsetzung erschließt.
 
@@ -7,11 +10,9 @@ Das Bamberger Vokabular folgt den Vorgaben des [WWW-Konsortiums für Simple Know
 ***
 
 ### Zugriff
-Der allgemeine Zugang zum Vokabular erfolgt über: [hist-arch-vocab.org](https://hist-arch-vocab.org/).
-
-Das Basic Register of Thesauri, Ontologies & Classifications (BARTOC) listet das Bamberger Vokabular unter der ID [20463](https://bartoc.org/en/node/20463).
-
-Konkordanzen zu anderen Vokabularen / Normdaten / Thesauri (Matching) können mit der [Cocoda-Instanz von NFDI4Objects](https://coli-conc.gbv.de/cocoda/nfdi4objects/) erstellt werden.
+* Der allgemeine Zugang zum Vokabular erfolgt über: [hist-arch-vocab.org](https://hist-arch-vocab.org/).
+* Das Basic Register of Thesauri, Ontologies & Classifications (BARTOC) listet das Bamberger Vokabular unter der ID [20463](https://bartoc.org/en/node/20463).
+* Konkordanzen zu anderen Vokabularen / Normdaten / Thesauri (Matching) können mit der [Cocoda-Instanz von NFDI4Objects](https://coli-conc.gbv.de/cocoda/nfdi4objects/) erstellt werden.
 
 
 ***
