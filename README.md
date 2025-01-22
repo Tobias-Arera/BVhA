@@ -1,3 +1,5 @@
+[hist-arch-vocab.org logo](https://github.com/Tobias-Arera/BVhA/blob/main/Komplett-rechteckig.png)
+
 ### Allgemeines
 Das Bamberger Vokabular für historische Architektur (BVhA) ist der einzige Normdatensatz für die historische Bauforschung, die Baugeschichte, den Bauerhalt und die Bauwerksrestaurierung, der im Unterschied zum etablierten [Getty Art & Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/) Fachtermini nun auch umfassend in deutscher Sprache abbildet und neben kunsthistorisch orientierten, formalen und typologischen Begriffen reichhaltiges Wissen bezüglich der Baukonstruktion, der Bautechnikgeschichte, der Gebäudeausstattung, der Zustandserfassung und Instandsetzung erschließt.
 
