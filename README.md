@@ -38,6 +38,6 @@ Technische sowie grundlegend strukturelle Aspekte werden hingegen besser als ord
 
 ### Versionen
 
-**v0.5_2022-11-22**: archivierter Stand des Vokabulars zum Ende des Drittmittelprojekts
+**v0.5_2022-11-22**: archivierter Stand des Vokabulars zum Ende des Drittmittelprojekts.
 
-**v0.65_2026-05-22**: Top-Concepts und obere Hierarchieebenen von *strukturell-räumliche Entität (de), structural-spatial entity (en)* konsolidiert und mit Annotationen versehen
+**v0.65_2026-05-22**: Top-Concepts und obere Hierarchieebenen von *strukturell-räumliche Entität (de), structural-spatial entity (en)* konsolidiert und mit Annotationen (de, en) versehen.
