@@ -14,6 +14,7 @@ Das Bamberger Vokabular folgt den Vorgaben des [WWW-Konsortiums für Simple Know
 * Das Basic Register of Thesauri, Ontologies & Classifications (BARTOC) listet das Bamberger Vokabular unter der ID [20463](https://bartoc.org/en/node/20463).
 * Das Register historischer und objektbezogener Vokabulare und Normdaten (R:hovono) unter der ID [Q1190608](https://vokabulare.geschichte.uni-halle.de/vokabular.php?uri=Q1190608).
 * Konkordanzen zu anderen Vokabularen / Normdaten / Thesauri (Matching) können mit der [Cocoda-Instanz von NFDI4Objects](https://coli-conc.gbv.de/cocoda/nfdi4objects/) erstellt werden.
+* Ein Data-Dump der aktuellen Version befindet sich hier unter [./data/latest_version](https://github.com/Tobias-Arera/BVhA/tree/main/data/latest_version) als RDF/XML, Turtle und JSON-LD.
 
 
 ***
