@@ -32,3 +32,9 @@ Tournusmäßig erfolgt die Veröffentlichung neuer Arbeitsstände sowie die Arch
 Unsere terminologische Expertise ist auf bestimmte Arbeitsfelder begrenzt. Eine umfassende fachspezifische Begriffsontologie zum Themenfeld historische Architektur kann nur gemeinsam entstehen. Dazu brauchen wir Euch alle. Gerne nehmen wir das umfassende Spezialwissen der gesamten Community auf. Alle inhaltlichen Aspekte rund um das Bamberger Vokabular, wie Vorschläge für Weiterentwicklungen und Korrekturen können unter [Diskussions](https://github.com/Tobias-Arera/BVhA/discussions) an uns übermittelt werden. Hierbei ist kein Account erforderlich.
 
 Technische sowie grundlegend strukturelle Aspekte werden hingegen besser als ordentlicher *Issue* im Ticket-System behandelt, siehe dazu [Issues](https://github.com/Tobias-Arera/BVhA/issues). Hierzu benötigt ihr einen Github-Account.
+
+
+***
+
+### Versionen
+**v0.65_2026-05-22**: Top-Concepts und obere Hierarchieebenen von *strukturell-räumliche Entität (de), structural-spatial entity (en)* konsolidiert und mit Annotationen versehen
